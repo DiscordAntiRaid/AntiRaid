@@ -1,0 +1,2 @@
+# AntiRaid
+Discord AntiRaid Bot
